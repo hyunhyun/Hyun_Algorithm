@@ -1,4 +1,4 @@
-package April.week2;
+package bfsDfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
